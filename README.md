@@ -1,2 +1,3 @@
 # BlackJack_Game
-Blackjack game for python bignners
+Blackjack game for python bignners without GUI
+
